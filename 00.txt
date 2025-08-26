@@ -1,0 +1,16 @@
+fly.io> Get Started> Dashboard>
+
+install flyctl>
+   powershell> iwr https://fly.io/install.ps1 -UseBasicParsing | iex
+   flyctl --version
+
+
+flyctl auth login
+flyctl launch --no-deploy
+   Do you want to tweak these settings before proceeding?> N
+
+
+
+اکانت وریفای شده payPal
+
+
